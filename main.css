@@ -1,0 +1,292 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body {
+    background-color: black;
+}
+
+.container {
+    max-width: 100%;
+    width: 85%;
+    margin: 0 auto;
+
+}
+
+header {
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    font-size: 24px;
+    text-align: center;
+}
+
+img {
+    margin-right: 163px;
+}
+
+p {
+    margin-right: 50px;
+    text-shadow: 2px 2px 5px white;
+}
+
+.section-boss {
+    background-image: url(./Rectangle\ 2.png);
+    margin-top: 36px;
+    width: 1440px;
+    height: 595px;
+}
+
+.h2-joni {
+    text-shadow: 2px 2px 5px white;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    width: 600px;
+    height: 75px;
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 44px;
+    margin-left: 310px;
+}
+
+.dumaloq {
+    background-color: red;
+    border-radius: 100px;
+    width: 411px;
+    height: 209px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tortburche {
+    background-color: red;
+    width: 237px;
+    height: 237px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.option {
+    position: relative;
+    margin-top: 200px;
+}
+
+.figura {
+    font-size: 24px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 80px;
+    gap: 60px;
+    position: absolute;
+    top: -200px;
+    left: 120px;
+    z-index: 1;
+
+}
+
+.torburce {
+    background-color: chartreuse;
+    width: 237px;
+    position: relative;
+    height: 237px;
+    font-size: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: end;
+}
+
+.figura-tegi {
+
+    display: flex;
+    gap: 271px;
+}
+
+h2 {
+    margin-top: 80px;
+}
+
+.div-otasi {
+    box-shadow: 0px 4px 7.4px 0px rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 88px;
+    margin-top: 125px;
+}
+
+.div-1 {
+    width: 332px;
+    height: 332px;
+    background: rgba(123, 37, 37, 1);
+    color: white;
+    align-items: center;
+    display: flex;
+}
+
+.div-2 {
+    width: 332px;
+    height: 332px;
+    background: rgba(123, 37, 37, 1);
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.div-3 {
+    width: 332px;
+    height: 332px;
+    background: rgba(123, 37, 37, 1);
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.joja {
+    display: flex;
+    align-items: center;
+}
+
+.iguga {
+    width: 306px;
+    height: 106px;
+}
+.footer-boss{
+    display: flex;
+    color: white;
+    font-size: 26px;
+    margin-top: 125px;
+}
+.p-gram{
+    display: flex;
+    margin-left: 520px;
+}
+.itw{
+    align-items: start;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
